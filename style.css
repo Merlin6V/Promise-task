@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 5px;
+   
+   
+}
+img{
+    height: 180px;
+    width: 70px;
+   justify-content: center;
+   
+    
+}
+.card-body{
+    justify-content: center;
+}
+.card{
+    margin-top: 6px;
+    margin-left: 6px;
+    border-radius: 4px;
+}
